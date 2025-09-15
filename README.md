@@ -174,7 +174,7 @@
 
 | Name                           | Link                                  | Description                                                         |
 | ------------------------------ | ------------------------------------- | ------------------------------------------------------------------- |
-| [Tauri](https://tauri.studio/) | [![join]](https://discord.gg/TDm7DqJ) | Framework agnostic toolchain for building highly secure native apps |
+| [Tauri](https://tauri.app/) | [![join]](https://discord.gg/TDm7DqJ) | Framework agnostic toolchain for building highly secure native apps |
 
 ## Contributing
 
